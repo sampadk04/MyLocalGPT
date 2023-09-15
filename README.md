@@ -13,6 +13,9 @@ This is a mini-implementation of my own LocalGPT using Llama2.
 ## Run in Notebook
 - Run the `LocalGPT.ipynb` file to run the LocalGPT in Jupyter Notebook. Make sure to enable GPU in the notebook settings.
 
+## Architecture
+![LocalGPT Architecture](LocalGPT_Architecture.jpeg)
+
 ## Sample Output
 
 This lists all the sources and the corresponding text chunks that are relevant to the query.
