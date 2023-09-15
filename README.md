@@ -10,6 +10,9 @@ This is a mini-implementation of my own LocalGPT using Llama2.
 - Run the `run_localGPT.py` file to run the LocalGPT on the local device.
 - Modify the `constants.py` file to change the device and model parameters of the LocalGPT.
 
+## Run in Notebook
+- Run the `LocalGPT.ipynb` file to run the LocalGPT in Jupyter Notebook. Make sure to enable GPU in the notebook settings.
+
 ## Sample Output
 
 This lists all the sources and the corresponding text chunks that are relevant to the query.

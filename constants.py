@@ -16,8 +16,8 @@ CHROMA_SETTINGS = Settings(
 )
 
 # set the device type
-# DEVICE_TYPE = "mps"
-DEVICE_TYPE = "cpu"
+DEVICE_TYPE = "mps"
+# DEVICE_TYPE = "cpu"
 
 # define embedding model name
 
